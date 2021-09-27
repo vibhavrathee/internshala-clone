@@ -1,0 +1,11 @@
+.myContainer {
+  background-color: rgb(41, 41, 41);
+  color: white;
+}
+.myContainer a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+.myContainer a:hover {
+  color: white;
+}

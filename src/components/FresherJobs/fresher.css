@@ -1,0 +1,26 @@
+.Cards {
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Card_item {
+  margin: 20px;
+  padding: 16px 4px 24px;
+  box-sizing: border-box;
+}
+
+.text {
+  text-align: center;
+  margin-top: 16px;
+  font-size: 16px;
+}
+.img {
+  display: flex;
+  justify-content: center;
+  width: 132px;
+  height: 78px;
+}

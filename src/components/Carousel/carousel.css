@@ -1,0 +1,11 @@
+/* #myCarousel {
+  height: 376px !important;
+  width: 90% !important;
+} */
+img {
+  border-radius: 6px;
+}
+main {
+  display: flex;
+  justify-content: center;
+}
